@@ -1,0 +1,1 @@
+export {getData, fetchData, getRequestData, deleteData, putData} from './datahandling';
